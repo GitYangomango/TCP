@@ -1,0 +1,6 @@
+C:\VS Projects\tcp base\Server\bin\Debug\Server.exe.config
+C:\VS Projects\tcp base\Server\bin\Debug\Server.exe
+C:\VS Projects\tcp base\Server\bin\Debug\Server.pdb
+C:\VS Projects\tcp base\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\VS Projects\tcp base\Server\obj\Debug\Server.exe
+C:\VS Projects\tcp base\Server\obj\Debug\Server.pdb

@@ -1,0 +1,7 @@
+C:\VS Projects\tcp base\tcp base\bin\Debug\tcp base.exe.config
+C:\VS Projects\tcp base\tcp base\bin\Debug\tcp base.exe
+C:\VS Projects\tcp base\tcp base\bin\Debug\tcp base.pdb
+C:\VS Projects\tcp base\tcp base\obj\Debug\Client.csprojAssemblyReference.cache
+C:\VS Projects\tcp base\tcp base\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\VS Projects\tcp base\tcp base\obj\Debug\tcp base.exe
+C:\VS Projects\tcp base\tcp base\obj\Debug\tcp base.pdb
